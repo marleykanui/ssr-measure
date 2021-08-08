@@ -1,0 +1,10 @@
+{
+  "name": "next-measure",
+  "keywords": ["SSR ViewPort Measure", "Measuring Tool", "Measure Your Dom Here"],
+  "version": "1.0.0",
+  "description": "SSR Friendly View Port Tools",
+  "main": "index.js",
+  "repository": "https://github.com/marleykanui/next-measure",
+  "author": "Marley Kanui",
+  "license": "MIT"
+}
